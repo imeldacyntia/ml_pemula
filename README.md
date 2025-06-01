@@ -1,1 +1,3 @@
-# ml_pemula
+# ml pemula
+
+![Rating](img/rating.png)
